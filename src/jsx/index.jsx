@@ -1,17 +1,17 @@
-class App extends React.Component{
-	constructor(props){
-		super(props);
-		this.state = {
-			header_title:"Mixins{functions}"
-		}
-	}
+class Clock extends React.Component{
+	constructor(props) {
+    super(props);
+    this.state = {date: new Date()};
+  }
 	render(){
-		return(
-			<div className="mainNav">
-				<div className="logoName">{this.state.header_title}</div>
-			</div>
-		);
-	}
+  	return(
+    	
+      		
+    		<span className="date">{this.state.date.toLocaleTimeString()}</span>
+    );
+  }
 }
-const container = document.getElementById('container');
-ReactDOM.render(<App/>,container);
+const MountTime=()=>{
+  	ReactDOM.render(<Clock/>,document.getElementById('container'))
+}
+setInterval(MountTime,1000);
