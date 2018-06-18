@@ -1,0 +1,74 @@
+[
+        {
+            "user_Id":1,
+            "username":"Philip Kimani",
+            "image_Uri":"/assets/img/avatar.jpg",
+            "position":"Web Designer {Backend Developer}",
+            "social_media_url":{
+                    "fb_Uri":"#",
+                    "twitter":"#"
+            }
+        },
+        {
+            "user_Id":2,
+            "username":"Joshua Nderi",
+            "image_Uri":"/assets/img/DSC_2130.jpg",
+            "position":"Desktop/Android Developer",
+            "social_media_url":{
+                "fb_Uri":"#",
+                "twitter":"#"
+            }
+        },
+        {
+            "user_Id":3,
+            "username":"Nevil Paul",
+            "image_Uri":"/assets/img/team4.jpg",
+            "position":"Web Development{Front-End}",
+            "social_media_url":{
+                "fb_Uri":"#",
+                "twitter":"#"
+            }
+        },
+        {
+            "user_Id":4,
+            "username":"Josphat Ongeri",
+            "image_Uri":"/assets/img/user-1.png",
+            "position":"Desktop App Developer",
+            "social_media_url":{
+                "fb_Uri":"#",
+                "twitter":"#"
+            }
+        },
+        {
+            "user_Id":5,
+            "username":"Bonface",
+            "image_Uri":"/assets/img/user-1.png",
+            "position":"Desktop App Developer",
+            "social_media_url":{
+                "fb_Uri":"#",
+                "twitter":"#"
+            }
+        },
+        {
+            "user_Id":6,
+            "username":"Arnold Kimani",
+            "image_Uri":"/assets/img/user-2.jpg",
+            "position":"Graphics Designer",
+            "social_media_url":{
+                "fb_Uri":"#",
+                "twitter":"#"
+            }
+			
+        },
+        {
+            "user_Id":7,
+            "username":"Evans Githinji",
+            "image_Uri":"/assets/img/pic1.jpeg",
+            "position":"Desktop App Developer",
+            "social_media_url":{
+                "fb_Uri":"#",
+                "twitter":"#"
+            }
+			
+        }
+]
